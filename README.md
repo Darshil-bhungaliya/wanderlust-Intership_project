@@ -42,6 +42,3 @@ Wanderlust is a project aimed at providing users with an immersive travel experi
 
 Feel free to contribute to Wanderlust by opening issues or submitting pull requests. We welcome any improvements or suggestions to make this project better.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
